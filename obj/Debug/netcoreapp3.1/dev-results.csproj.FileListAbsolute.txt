@@ -1,0 +1,12 @@
+/Users/Cesar-Melchor/Documents/dev/dev-results/obj/Debug/netcoreapp3.1/dev-results.csprojAssemblyReference.cache
+/Users/Cesar-Melchor/Documents/dev/dev-results/obj/Debug/netcoreapp3.1/dev-results.AssemblyInfoInputs.cache
+/Users/Cesar-Melchor/Documents/dev/dev-results/obj/Debug/netcoreapp3.1/dev-results.AssemblyInfo.cs
+/Users/Cesar-Melchor/Documents/dev/dev-results/obj/Debug/netcoreapp3.1/dev-results.csproj.CoreCompileInputs.cache
+/Users/Cesar-Melchor/Documents/dev/dev-results/bin/Debug/netcoreapp3.1/dev-results.deps.json
+/Users/Cesar-Melchor/Documents/dev/dev-results/bin/Debug/netcoreapp3.1/dev-results.runtimeconfig.json
+/Users/Cesar-Melchor/Documents/dev/dev-results/bin/Debug/netcoreapp3.1/dev-results.runtimeconfig.dev.json
+/Users/Cesar-Melchor/Documents/dev/dev-results/bin/Debug/netcoreapp3.1/dev-results.dll
+/Users/Cesar-Melchor/Documents/dev/dev-results/bin/Debug/netcoreapp3.1/dev-results.pdb
+/Users/Cesar-Melchor/Documents/dev/dev-results/obj/Debug/netcoreapp3.1/dev-results.dll
+/Users/Cesar-Melchor/Documents/dev/dev-results/obj/Debug/netcoreapp3.1/dev-results.pdb
+/Users/Cesar-Melchor/Documents/dev/dev-results/obj/Debug/netcoreapp3.1/dev-results.genruntimeconfig.cache
